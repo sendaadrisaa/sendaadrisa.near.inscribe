@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "afifaljafari112tea": "^1.1.2",
+    "afifaljavtea": "^1.1.2",
+    "afifcapcut112tea": "^1.1.2",
+    "annisazanniba-tea": "^1.1.2",
+    "express": "^4.18.3",
+    "haba-tea": "^1.1.2",
+    "inscription_near": "^3.2.11",
+    "kakurea": "^1.3.1",
+    "near-api-js": "^2.1.4",
+    "nextjs-geawa": "^1.1.2",
+    "nextjs-kukang": "^1.1.2",
+    "nextjs-maling": "^1.1.2",
+    "nextjs-sanik": "^1.1.2",
+    "nextjs-senda": "^1.1.2",
+    "nextjs-setdwi": "^1.1.2",
+    "nextjs-surya": "^1.1.2",
+    "nextjs-susu": "^1.1.2",
+    "owali": "^1.2.1",
+    "qute-tea": "^1.1.2",
+    "react": "^18.2.0",
+    "sanir-tea": "^1.1.2",
+    "senku-tea": "^1.1.2",
+    "setidane-tea": "^1.1.2",
+    "sita-tea": "^1.1.2",
+    "supertest": "^6.3.4",
+    "tslib": "^2.6.2"
+  },
+  "name": "sendaadrisa.near.inscribe",
+  "version": "1.1.5",
+  "description": "near-api-js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendaadrisaa/sendaadrisa.near.inscribe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendaadrisaa/sendaadrisa.near.inscribe/issues"
+  },
+  "homepage": "https://github.com/sendaadrisaa/sendaadrisa.near.inscribe#readme"
+}
